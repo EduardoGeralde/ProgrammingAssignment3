@@ -1,3 +1,7 @@
+## Johns Hopkins University - Data Science Specialization
+## Course 2 - R Programming
+
+## by Eduardo Geralde Neto
 
 ##Write a function called best that take two arguments: the 2-character abbreviated name of a state and an 
 ##outcome name. The function reads the outcome-of-care-measures.csv file and returns a character vector with the 
